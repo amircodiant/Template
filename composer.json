@@ -2,7 +2,7 @@
     "name": "amircodiant/template",
     "description": "this is for testing purpose only",
     "keywords": ["template", "composer", "package"],
-    "license": "DBAD",
+    "license": "0BSD",
     "authors": [
         {
             "name": "amir ansari",
